@@ -5,5 +5,5 @@ public class InsertAccounts {
             acclist.add(new Account(Name='Test Account ' + i,AccountNumber='TEST'+i));
         }
         insert acclist;
-    }
+    }//bhvjkbbvhvhvv
 }
